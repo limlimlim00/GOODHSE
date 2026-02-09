@@ -2,7 +2,7 @@
 
 export device=$1
 export dataset=$2
-export project_name='240516_reproduce'
+export project_name='GOODHSE_reproduce'
 
 if [ $dataset = 'icassay' ]
 then
