@@ -3,3 +3,5 @@
 /logs
 /wandb
 /wandb_log
+
+__pycache__
